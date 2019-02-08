@@ -123,11 +123,11 @@ class Main extends Component {
                         meeting..........
                     </p>
                     <p>
-                        The address is: Three Notch'd
+                        {/* The address is: Three Notch'd
                         Brewery 2930 W Broad St, Richmond,
                         VA 23230. 
                         The Date:  Sunday March 3rd from
-                        1:00 to 4:00pm.
+                        1:00 to 4:00pm. */}
                         <br></br>
                         <br></br>
                         <br></br>
@@ -145,7 +145,8 @@ class Main extends Component {
             </div>
 
             <div>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdMA30qH-3s3mBVvWPQqQec2FPU_0IFgYp3nNrzESFr3rsxTQ/viewform" rel="noopener noreferrer" target="_blank">RSVP</a>  | <a href="http://www.lucaskhem.com">REPLAY</a> | <a href="https://www.babylist.com/lucaskhem" rel="noopener noreferrer" target="_blank">REGISTRY</a>
+            {/* <a href="https://docs.google.com/forms/d/e/1FAIpQLSdMA30qH-3s3mBVvWPQqQec2FPU_0IFgYp3nNrzESFr3rsxTQ/viewform" rel="noopener noreferrer" target="_blank">RSVP</a>  */}
+            <a href="http://www.lucaskhem.com">REPLAY</a> | <a href="https://www.babylist.com/lucaskhem" rel="noopener noreferrer" target="_blank">REGISTRY</a>
             </div>
 
             <section className="logo">
